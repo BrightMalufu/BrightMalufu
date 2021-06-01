@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrightMalufu
 - 👀 I’m interested in ...PHP,Javascript and C
 - 🌱 I’m currently learning ...PHP
-- 💞️ I’m looking to collaborate on ...June
+- 💞️ I’m looking to collaborate on ...learning 
 - 📫 How to reach me ...gwest2441@gmail.com // +27 730375994
 
 <!---
